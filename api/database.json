@@ -1,0 +1,68 @@
+{
+  "cards": [
+    {
+      "id": "b1d2c3e4-f5a6-7890-b1c2-d3e4f5a67890",
+      "category": "FIRST",
+      "question": "What is the tallest mountain in the world?",
+      "answer": "Everest",
+      "tag": "Geography",
+      "updatedAt": "2024-02-20"
+    },
+    {
+      "id": "c2d3e4f5-6789-0123-4567-89a0b1c2d3e4",
+      "category": "THIRD",
+      "question": "What is the square root of 49?",
+      "answer": "7",
+      "tag": "Mathematics",
+      "updatedAt": "2024-02-16"
+    },
+    {
+      "id": "d3e4f5a6-7890-1234-5678-90a1b2c3d4e5",
+      "category": "SECOND",
+      "question": "What element does 'O' represent on the periodic table?",
+      "answer": "Oxygen",
+      "tag": "Chemistry",
+      "updatedAt": "2024-02-20"
+    },
+    {
+      "id": "e4f5a678-9012-3456-7890-a1b2c3d4e5f6",
+      "category": "FOURTH",
+      "question": "Who wrote 'Hamlet'?",
+      "answer": "Shakespeare",
+      "tag": "Literature",
+      "updatedAt": "2024-02-18"
+    },
+    {
+      "id": "f5a67890-1234-5678-90a1-b2c3d4e5f6a7",
+      "category": "FIFTH",
+      "question": "What is the capital of Japan?",
+      "answer": "Tokyo",
+      "tag": "Geography",
+      "updatedAt": "2024-02-17"
+    },
+    {
+      "id": "a6789012-3456-7890-a1b2-c3d4e5f6a7b8",
+      "category": "SECOND",
+      "question": "How many primary colors are there?",
+      "answer": "3",
+      "tag": "Art",
+      "updatedAt": "2024-02-18"
+    },
+    {
+      "id": "b7890123-4567-890a-1b2c-3d4e5f6a7b8c",
+      "category": "FIRST",
+      "question": "What is the basic unit of life?",
+      "answer": "Cell",
+      "tag": "Biology",
+      "updatedAt": "2024-02-20"
+    },
+    {
+      "id": "f69d",
+      "question": "Capital of France ?",
+      "answer": "Paris",
+      "tag": "Geography",
+      "category": "FIRST",
+      "updatedAt": "2024-02-19"
+    }
+  ]
+}
